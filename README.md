@@ -1,3 +1,3 @@
-# Pranav Lodha Website
-plodha.github.io
-Pranav Lodha's Personal Website
+# Peter Kiama Lodha Website
+pkiama.github.io
+Peter Kiama's Personal Website
